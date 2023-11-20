@@ -1,0 +1,11 @@
+h1 {
+    font-size: 70px;
+    font-weight: 700;
+    background-image: linear-gradient(to left, #7e59e4, rgb(173, 41, 162));
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    text-align: center;
+    margin-top: -10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
